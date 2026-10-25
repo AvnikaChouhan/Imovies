@@ -8,8 +8,8 @@ IMovies is a planned MERN web application where customers can discover movies, c
 
 ## Project links
 
-- Live demo: _To be added after deployment_
-- GitHub repository: [ashvin94/Imovies](https://github.com/ashvin94/Imovies)
+- Live demo: _https://drive.google.com/file/d/1qMqeudsiFo7xIXy3jCw-MtMz7brAe8Uj/view?usp=sharing
+- GitHub repository:https://github.com/AvnikaChouhan/Imovies
 - Kanban board: _To be added_
 
 ## Planned features
